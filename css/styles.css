@@ -295,13 +295,12 @@ img {
 /* BASEMENT */
 .footer {
   background-color: var(--hero-footer-bgc);
+  padding: 60px 0;
 }
 
 .footer .conteiner {
   display: flex;
   flex-direction: column;
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 
 .footer .logo {
